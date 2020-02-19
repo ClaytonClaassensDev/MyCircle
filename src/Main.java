@@ -32,5 +32,6 @@ public class Main {
         /*JOptionPane.showMessageDialog(null, myCircle.toString());*/
         System.out.println(myCircle.toString());
         System.out.println(myCircle2.toString());
+        System.out.println("Clayton Claassens was here");
     }
 }
